@@ -1,0 +1,6 @@
+generated: '2026-10-23'
+method: probed
+generator: harvest-llms.py
+source: https://library.concordia.ca/llms.txt
+bytes: 3756
+note: saved verbatim; the provider's own document

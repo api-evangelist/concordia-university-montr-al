@@ -1,0 +1,16 @@
+generated: '2026-10-23'
+method: none
+source:
+- https://zapier.com/apps/concordia-university-montr-al/integrations
+- https://n8n.io/integrations/concordia-university-montr-al/
+- https://composio.dev/toolkits/concordia-university-montr-al
+- https://monid.ai/tools/concordia-university-montr-al
+checked:
+- https://composio.dev/toolkits/concordia-university-montr-al
+- https://monid.ai/tools/concordia-university-montr-al
+- https://n8n.io/integrations/concordia-university-montr-al/
+- https://zapier.com/apps/concordia-university-montr-al/integrations
+summary: null
+marketplace_apps: []
+edges: []
+templates: []

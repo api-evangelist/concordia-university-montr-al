@@ -1,0 +1,49 @@
+# Concordia University Library
+> Concordia University Library located in Montreal, Quebec, Canada provides access to the Sofia Discovery tool for searching the Library's collections, databases by subject, e-journals, writing and citing guides.
+                       
+## Research support
+- [Research support overview](https://library.concordia.ca/research/) - How the library supports researchers
+- [Bibliometrics & research impact guide](https://library.concordia.ca/research/bibliometrics) - Measure the impact of your research
+- [Concordia University Press](https://concordia.ca/press) - Concordia's open access press
+- [Copyright Guide](https://library.concordia.ca/copyright/) - Answers to student, researcher and instructor questions about copyright
+- [Digital Scholarship](https://library.concordia.ca/research/digital-scholarship/) - How the library supports digital scholarship
+- [Digital Preservation](https://library.concordia.ca/research/digital-preservation/) 
+- [Open at Concordia](https://www.concordia.ca/library/openguides.html)
+- [ORCID at Concordia](https://library.concordia.ca/research/orcid/)
+- [Research data management guide](https://www.concordia.ca/library/research/data.html)
+- [Scholarship of Teaching & Learning](https://www.concordia.ca/library/guides/scholarship-of-teaching-learning.html)
+- [Spectrum Research Repository](https://spectrum.library.concordia.ca/)
+- [Systematic Reviews](https://library.concordia.ca/research/systematic-reviews/)                        
+
+## Technology
+- [Technology overview](https://library.concordia.ca/technology/)
+- [Borrow (laptops, tablets, equipment)](https://library.concordia.ca/technology/borrow/)
+- [Connect (netname, Wi-Fi, guest accounts)](https://library.concordia.ca/technology/connect/)
+- [Desktop computers & software](https://library.concordia.ca/technology/computers/)
+- [Group study, presentation practice & classrooms](https://library.concordia.ca/technology/rooms/)
+- [Printers, copiers & scanners](https://library.concordia.ca/technology/reproduction/)
+- [Technology Sandbox](https://library.concordia.ca/technology/sandbox/)
+- [Visualization Studio] https://library.concordia.ca/technology/visualization/                                                                   
+
+## Locations & hours
+- [Webster Library](https://library.concordia.ca/locations/index.php)
+- [Vanier Library](https://library.concordia.ca/locations/vanier.php)
+- [Book a group study room/scanner](https://librarycalendar.concordia.ca/)
+- [Study spaces](https://library.concordia.ca/locations/study-spaces.php)
+- [Floor plans](https://library.concordia.ca/locations/floor-plans/index.php)
+- [Room booking for thesis defence](https://library.concordia.ca/locations/booking/index.php)
+                               
+## About
+- [About overview](https://library.concordia.ca/about/)
+- [Library Collections Cancellations](https://library.concordia.ca/about/collections/)
+- [News](https://library.concordia.ca/about/news/)
+- [Events](https://library.concordia.ca/events/)
+- [Exhibitions](https://library.concordia.ca/about/exhibitions/)
+- [Librarians & staff](https://library.concordia.ca/about/staff/)
+- [Job opportunities](https://library.concordia.ca/about/jobs/) 
+- [Indigenous Student Librarian program](https://library.concordia.ca/about/indigenous-student-librarian/)
+- [Feedback & improvement](https://library.concordia.ca/about/improvement/)
+- [Annual Plan](https://library.concordia.ca/about/plan/)
+- [Library Services Fund](https://library.concordia.ca/about/lsf/) 
+- [Giving to the Library](https://library.concordia.ca/about/giving-to-the-library/)
+- [Policies & Code of Conduct](https://library.concordia.ca/about/policies/)                

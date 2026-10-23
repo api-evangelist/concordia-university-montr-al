@@ -1,23 +1,76 @@
 aid: concordia-university-montr-al
+
 name: Concordia University Montréal
-description: 'Concordia University Montréal is a company surfaced via the API Evangelist harvest backlog
-  (source: vc-portfolio) and added to the network as a stub for full-pipeline profiling.'
+
+image: https://www.concordia.ca/content/concordia/en/research/cities-institute.social.png/1654029864448.jpg
+
+description: 'Concordia University Montréal is a public comprehensive university located in Montreal, Quebec, Canada. It offers a wide range of undergraduate, graduate and professional programs across four faculties, serving over 50,000 students. The university is known for its research initiatives, experiential learning, and community engagement, fostering innovation and interdisciplinary collaboration.'
+
 url: https://raw.githubusercontent.com/api-evangelist/concordia-university-montr-al/refs/heads/main/apis.yml
+
 x-type: company
+
 x-source: harvest:vc-portfolio
-x-tier: stub
-x-tier-reason: harvest
+
+x-tier: profiled
+x-tier-reason: enrichment pass 2026-10-23 (modular-v1; was harvest)
+
 specificationVersion: '0.20'
+
 created: '2026-10-23'
+
 modified: '2026-10-23'
+
 tags:
+- University
+- Education
+- Canada
+- Montreal
+- HigherEducation
 - Company
-apis: []
+
 maintainers:
 - FN: Kin Lane
   email: kin@apievangelist.com
 - FN: APIs.json
   email: info@apis.io
+
 common:
+- type: LLMsTxt
+  url: llms/concordia-university-montr-al-llms.txt
+- type: Hosts
+  url: hosts/concordia-university-montr-al-hosts.yml
+- type: TermsOfService
+  url: https://www.concordia.ca/web/terms.html
+- type: Support
+  url: https://www.concordia.ca/students/otsenhakta/support/awards-bursaries.html
+- type: SignUp
+  url: https://www.concordia.ca/about/shift/newsletter/2022/07/Register-LisePalmerWorkshop.html
+- type: PrivacyPolicy
+  url: https://www.concordia.ca/privacy.html
+- type: Newsroom
+  url: https://www.concordia.ca/news/media-relations.html
+- type: DomainSecurity
+  url: security/concordia-university-montr-al-domain-security.yml
 - type: Website
-  url: https://www.concordia.ca/research/cities-institute.html
+  url: https://www.concordia.ca
+
+apis: []
+
+x-coverage:
+  state: none
+  reason: no-developer-program
+  method: derived
+  generated: '2026-10-23'
+  generator: derive-coverage.py (pre-flight evidence)
+  detail: >-
+    the company publishes no developer documentation host and no machine-readable contract on its own domain
+  evidence:
+  - url: https://www.concordia.ca/research/cities-institute.html
+    status: 200
+x-enrichment:
+  date: '2026-10-23'
+  status: enriched
+  artifacts_added: 10
+  pass: modular-v1
+  engine: identity=local,contract=local,surfaces=local,docs=local,regulatory=local
